@@ -1,4 +1,4 @@
-# 基于YOLOv26的车辆跟踪实现
+# 基于YOLO26n.pt的车辆跟踪实现
 
 [HuYouming](https://github.com/HuYouming)
 
